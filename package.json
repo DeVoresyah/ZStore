@@ -11,7 +11,7 @@
     "moment": "^2.22.2",
     "native-base": "^2.7.2",
     "react": "16.4.1",
-    "react-native": "0.56.0",
+    "react-native": "0.70.2",
     "react-native-step-indicator": "0.0.9",
     "react-navigation": "^2.12.1",
     "react-redux": "^5.0.7",
